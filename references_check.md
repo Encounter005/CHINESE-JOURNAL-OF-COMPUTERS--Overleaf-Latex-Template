@@ -61,3 +61,6 @@
 | 55 | `yang2024crag` | CRAG -- Comprehensive RAG Benchmark | Advances in Neural Information Processing Systems (NeurIPS): Datasets and Benchmarks Track 2024 | https://arxiv.org/abs/2406.04744 |
 | 56 | `guo2024lightrag` | LightRAG: Simple and Fast Retrieval-Augmented Generation | arXiv 预印本 2024 | https://arxiv.org/abs/2410.05779 |
 | 57 | `fan2024survey` | A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models | arXiv 预印本 2024 | https://arxiv.org/abs/2405.06211 |
+| 58 | `cheng2025survey` | A Survey on Knowledge-Oriented Retrieval-Augmented Generation | ACM Transactions on Information Systems（已录用，arXiv 2025） | https://arxiv.org/abs/2503.10677 |
+| 59 | `yu2024evaluation` | Evaluation of Retrieval-Augmented Generation: A Survey | Big Data（Springer, CCIS）2025，pp. 102--120，DOI 10.1007/978-981-96-1024-2\_8 | https://arxiv.org/abs/2405.07437 |
+| 60 | `zhang2025graphrag` | A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models | arXiv 预印本 2025 | https://arxiv.org/abs/2501.13958 |
